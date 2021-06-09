@@ -7,7 +7,7 @@ Alerting using:
 * a 3.3V buzzer
 * a 3V eccentric vibrating motor - 45mA current - (bigger motors won't work).
 * a powerful blinking LED - unsoldering usb desk light and connecting the 3V led to raspberry pi. 
-
+(https://github.com/Bnux256/PikudHaoref-Alerts-For-Hearing-Impaired/blob/main/demoVideo.webm?raw=true)
 Connecting to Pikud Haoref using the unoffical site API which uses a JSON files that shows the current alerts. For testing purpose the program checks for alerts every 5 seconds. 
 This project is just a proof of concept, the delay of the API is unknown and could be long. This shouldn't be used as an alerting system. 
 
