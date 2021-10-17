@@ -1,6 +1,14 @@
 # RedAlerts-For-Hearing-Impaired
 Using a Raspberry Pi connected to the unoffical Pikud Haoref API to alert hearing imparied people of rocket alerts.
 Made after Operation Guardian of the Walls.
+## Download and Run: 
+
+```  
+git clone https://github.com/Bnux256/RedAlerts-For-Hearing-Impaired.git
+cd RedAlerts-For-Hearing-Impaired
+python3 main.py
+```
+Can also run from included Debian Dockerfile.
 
 ## Alerting using:
 * a loud speaker - connected to headphone jack

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  redalertsforhearingimpairedmain:
+    image: redalertsforhearingimpairedmain
+    build:
+      context: .
+      dockerfile: ./Dockerfile
